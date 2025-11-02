@@ -3,7 +3,7 @@
 ### A frontend-developer & web-designer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javad-madadi" alt="javad-madadi" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9mBBPb5CA4GbrYwjWq7MiFSlG7FPhL31tw&s">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
 
 - 💬 Ask me about **React , Redux , Javascript, html , css**
 
